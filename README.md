@@ -1,4 +1,4 @@
-### Neural Axiom Explorer
+# Neural Axiom Explorer
 
 Learning algebraic structure and theoremhood from data
 
